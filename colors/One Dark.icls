@@ -4,7 +4,7 @@
     <property name="created">2017-05-09T16:52:58</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2019-04-04T15:26:58</property>
+    <property name="modified">2019-08-04T16:19:15</property>
     <property name="originalScheme">Solarized Dark. copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -44,6 +44,7 @@
     <option name="SELECTION_BACKGROUND" value="1e1e29" />
     <option name="SELECTION_FOREGROUND" value="abb2bf" />
     <option name="TEARLINE_COLOR" value="24272e" />
+    <option name="VISUAL_INDENT_GUIDE" value="343434" />
     <option name="WHITESPACES" value="2c2f35" />
   </colors>
   <attributes>
@@ -1106,7 +1107,7 @@
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="c97537" />
+        <option name="FOREGROUND" value="c9683d" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
