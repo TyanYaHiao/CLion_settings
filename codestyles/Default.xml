@@ -1,4 +1,11 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="SOFT_MARGINS" value="80" />
   <Objective-C>
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
   </Objective-C>
@@ -13,7 +20,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
-    <option name="BRACE_STYLE" value="5" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <indentOptions>
