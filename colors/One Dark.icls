@@ -4,14 +4,21 @@
     <property name="created">2017-05-09T16:52:58</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2019-08-04T16:19:15</property>
+    <property name="modified">2019-10-04T21:09:17</property>
     <property name="originalScheme">Solarized Dark. copy1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -55,22 +62,27 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="6d60" />
+        <option name="FOREGROUND" value="d2c2" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1d6f21" />
+        <option name="FOREGROUND" value="3bce42" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="8193ee" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="2e3baa" />
+        <option name="FOREGROUND" value="e8ee76" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="906658" />
+        <option name="FOREGROUND" value="e4877d" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -549,6 +561,12 @@
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4b5263" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
@@ -1372,32 +1390,52 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="baea5" />
+        <option name="FOREGROUND" value="d2c2" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="a69a1b" />
+        <option name="FOREGROUND" value="3bce42" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="cc917f" />
+        <option name="FOREGROUND" value="8193ee" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="e8ee76" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="e4877d" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="dac730" />
+        <option name="FOREGROUND" value="d2c2" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="76b235" />
+        <option name="FOREGROUND" value="3bce42" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="8f82" />
+        <option name="FOREGROUND" value="8193ee" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="e8ee76" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="e4877d" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
