@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Makefile2" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="lvl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
