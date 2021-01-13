@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Companies" type="PLAIN_TEXT" />
+      <mapping pattern="map04" type="PLAIN_TEXT" />
       <mapping ext="lvl" type="PLAIN_TEXT" />
       <mapping ext="head" type="PLAIN_TEXT" />
     </extensionMap>
